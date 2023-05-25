@@ -2,7 +2,7 @@
 	import "$lib/app.css"
 
 	/* SEO */
-	let title = "Page title",
+	let title = "Svelte starter",
 	description = "Description",
 	shareImage = "/ogimage.jpg",
 	themeColor = "#10171D";
